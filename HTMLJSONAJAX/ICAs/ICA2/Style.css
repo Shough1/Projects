@@ -1,0 +1,63 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 13-Jan-2015, 10:22:05 AM
+    Author     : shough1
+*/
+body{
+    
+    background-image: url("../img/image2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%; 
+    font-weight: bold;
+    
+}
+
+.header{
+    font-family: 'Black Ops One', cursive;
+    font-size: x-large;
+    text-align: center;
+    border: solid blue 1px;
+    border-radius: 25px;
+}
+.main{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border: 1px red dashed;
+    margin-top: 30px;
+    border-radius: 25px;
+}
+
+#ica2tbl{
+    margin-left: auto;
+    margin-right: auto;
+    border: green dotted 1px;
+}
+.status{
+    text-align: center;
+    border: 1px blue solid;
+    border-radius: 12px;
+    margin-top: 50px;
+    
+    
+}
+.footer{
+    margin-top: 25px; 
+    border: green 1px solid;
+    background-color: green;
+    text-align: center;
+    border-radius: 10px;
+}
+a{
+    font-weight: Bold;
+    font-size: x-large;
+    
+}
+
+#logout{
+    margin-left: 90px;
+}
+

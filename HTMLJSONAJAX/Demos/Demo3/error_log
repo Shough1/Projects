@@ -1,0 +1,5 @@
+[19-Jan-2015 16:47:26 UTC] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'shough10_admin'@'localhost' to database 'shough10_CMPE2500' in /home/shough10/public_html/CMPE2500/Demos/Demo3/inc/db.php on line 19
+[19-Jan-2015 16:53:19 UTC] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'shough10_admin'@'localhost' to database 'shough10_CMPE2500' in /home/shough10/public_html/CMPE2500/Demos/Demo3/inc/db.php on line 19
+[19-Jan-2015 16:54:23 UTC] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'shough10_admin'@'localhost' to database 'shough10_CMPE2500' in /home/shough10/public_html/CMPE2500/Demos/Demo3/inc/db.php on line 19
+[19-Jan-2015 16:54:25 UTC] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'shough10_admin'@'localhost' to database 'shough10_CMPE2500' in /home/shough10/public_html/CMPE2500/Demos/Demo3/inc/db.php on line 19
+[19-Jan-2015 16:54:26 UTC] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'shough10_admin'@'localhost' to database 'shough10_CMPE2500' in /home/shough10/public_html/CMPE2500/Demos/Demo3/inc/db.php on line 19

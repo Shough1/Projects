@@ -1,0 +1,15 @@
+[09-Jan-2015 23:01:30 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/shough10/public_html/CMPE2500/ICAs/ICA1/index.php on line 24
+[09-Jan-2015 23:28:47 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/shough10/public_html/CMPE2500/ICAs/ICA1/util.php on line 19
+[12-Jan-2015 17:17:18 UTC] PHP Fatal error:  Can't use function return value in write context in /home/shough10/public_html/CMPE2500/ICAs/ICA1/index.php on line 10
+[12-Jan-2015 17:17:42 UTC] PHP Fatal error:  Can't use function return value in write context in /home/shough10/public_html/CMPE2500/ICAs/ICA1/index.php on line 10
+[12-Jan-2015 17:17:45 UTC] PHP Fatal error:  Can't use function return value in write context in /home/shough10/public_html/CMPE2500/ICAs/ICA1/index.php on line 10
+[12-Jan-2015 17:17:47 UTC] PHP Fatal error:  Can't use function return value in write context in /home/shough10/public_html/CMPE2500/ICAs/ICA1/index.php on line 10
+[12-Jan-2015 17:19:31 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 33292243 bytes) in /home/shough10/public_html/CMPE2500/ICAs/ICA1/index.php on line 18
+[12-Jan-2015 17:19:33 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 33292243 bytes) in /home/shough10/public_html/CMPE2500/ICAs/ICA1/index.php on line 18
+[12-Jan-2015 17:49:57 UTC] PHP Parse error:  syntax error, unexpected '$' in /home/shough10/public_html/CMPE2500/ICAs/ICA1/index.php on line 8
+[12-Jan-2015 17:52:19 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 33292244 bytes) in /home/shough10/public_html/CMPE2500/ICAs/ICA1/index.php on line 19
+[12-Jan-2015 17:52:21 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 33292244 bytes) in /home/shough10/public_html/CMPE2500/ICAs/ICA1/index.php on line 19
+[12-Jan-2015 18:09:01 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 33292243 bytes) in /home/shough10/public_html/CMPE2500/ICAs/ICA1/index.php on line 19
+[13-Jan-2015 16:36:27 UTC] PHP Parse error:  syntax error, unexpected '$status' (T_VARIABLE) in /home/shough10/public_html/CMPE2500/ICAs/ICA1/index.php on line 63
+[13-Jan-2015 16:36:36 UTC] PHP Parse error:  syntax error, unexpected '$status' (T_VARIABLE) in /home/shough10/public_html/CMPE2500/ICAs/ICA1/index.php on line 63
+[13-Jan-2015 16:48:55 UTC] PHP Parse error:  syntax error, unexpected '+=' (T_PLUS_EQUAL) in /home/shough10/public_html/CMPE2500/ICAs/ICA1/index.php on line 57

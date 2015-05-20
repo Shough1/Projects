@@ -1,0 +1,40 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 9-Jan-2015, 3:45:30 PM
+    Author     : shough1
+*/
+
+body{
+    background-color: lightgrey;
+}
+
+#body{
+    border: red solid 1px;
+    border-radius: 15px;
+    margin:  1em;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+#pt1{
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+#ICA1Tbl{
+    border: dashed 1px blue;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    font-family: 'La Belle Aurore', cursive;
+    text-align: center;
+    
+}
