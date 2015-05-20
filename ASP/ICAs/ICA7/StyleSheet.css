@@ -1,0 +1,68 @@
+﻿body {
+    
+}
+.header{
+    border: solid 1px black;
+    background-color: #a9f2f7;
+}
+
+.footer{
+    border: solid 1px green;
+    border-radius: 25px;
+    background-color: #BADA55;
+}
+thead{
+    text-decoration: underline;
+    font-weight: bold;
+    padding: 0px 0px 0px 0px;
+}
+th {
+    border: dashed 1px green;
+    padding: 0px 0px 0px 0px;
+}
+#_tblMain{
+   
+    border: 1px solid black;
+}
+td{
+    border: 1px dashed orange;
+    padding: 0px 10px 0px 20px;
+}
+
+#_ddlBlue{
+    width: 150px;
+    height:20px;
+}
+#_txtbxRed{
+    font-size: x-large;
+    width: 75px;
+    height: 35px;
+}
+
+#_txtbxName{
+    width: 90%;
+}
+#_lblColor{
+    width: 500px;
+    height: 50px;
+    
+}
+#_chkbxGrey{
+    width: 2%;
+}
+
+#_lstbxSaved{
+     height: 93px; 
+     width: 152px;
+     margin: 0px 0px 0px 0px;
+}
+#_btnPreview{
+    width: 100%;
+}
+#_greenRad{
+    border: 1px solid blue;
+}
+#_radlstGreen{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}

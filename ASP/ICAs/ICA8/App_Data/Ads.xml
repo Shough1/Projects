@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/Images/img1.jpg</ImageUrl>
+    <Height>200</Height>
+    <Width>400</Width>
+    <NavigateUrl>http://www.wellbutrinxl.com/</NavigateUrl>
+    <AlternateText>Fuel</AlternateText>
+    <Impressions>33</Impressions>
+    <Keyword>Topic1</Keyword>
+    <Caption>Live Well</Caption>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/img2.jpg</ImageUrl>
+    <Height>200</Height>
+    <Width>400</Width>
+    <NavigateUrl>http://www.lilly.ca/en/index.aspx</NavigateUrl>
+    <AlternateText>TopGear</AlternateText>
+    <Impressions>33</Impressions>
+    <Keyword>Topic2</Keyword>
+    <Caption></Caption>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/img3.jpg</ImageUrl>
+    <Height>200</Height>
+    <Width>400</Width>
+    <NavigateUrl>http://www.zoloft.com/</NavigateUrl>
+    <AlternateText>TopGear</AlternateText>
+    <Impressions>33</Impressions>
+    <Keyword>Topic2</Keyword>
+    <Caption></Caption>
+  </Ad>
+  
+</Advertisements>

@@ -1,0 +1,29 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+<%@ Register Src="~/Header.ascx" TagPrefix="wuc" TagName="WUC_Header" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+  <link href="StyleSheet.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+      <h1>Master page demo header</h1>
+      <wuc:WUC_Header runat="server" ID="Header" />
+
+        <asp:ContentPlaceHolder id="_cph" runat="server">
+        </asp:ContentPlaceHolder>
+      <hr />
+        <asp:ContentPlaceHolder id="_news" runat="server">
+        </asp:ContentPlaceHolder>
+      <hr />
+      This bee the end...
+    </div>
+    </form>
+</body>
+</html>
